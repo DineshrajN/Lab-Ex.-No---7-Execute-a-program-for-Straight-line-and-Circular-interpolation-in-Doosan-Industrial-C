@@ -1,7 +1,3 @@
-### EXP NO: 07
-
-### Date:22/11/22
-
 # <p align = "center">Execute a program for Straight line and Circular interpolation in Doosan Industrial cobot using DLR studio</p>
 
 ### Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
